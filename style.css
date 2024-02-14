@@ -4,17 +4,15 @@ html{
     text-align: center;
 
 }
-a:link{
+a{
+    color: rgb(69, 116, 65);
+}
+.button{
     color: rgb(0, 0, 0);
     text-decoration: none;
     background-color:gray;
     padding: 8px 25px;
     display: inline-block;
-
- 
-
-    
-    
 }
 a:visited{
     color: aquamarine;
@@ -26,14 +24,19 @@ a:active{
     color: black;
 }
 
-li{
+li, h6{
     text-align: left;
 }
 h4{
     color: rgb(252, 168, 58);
     text-align: left;
 }
-hr{
-    color: red
-    rgb(red, green, blue)
+
+h5{
+    color: rgb(3, 123, 179);
+    text-align: left;
+}
+.wow{
+    image-rendering: auto;
+    padding-right: 36%;
 }
