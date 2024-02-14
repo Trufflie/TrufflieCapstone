@@ -1,0 +1,39 @@
+html{
+    color: aliceblue;
+    background: black;
+    text-align: center;
+
+}
+a:link{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background-color:gray;
+    padding: 8px 25px;
+    display: inline-block;
+
+ 
+
+    
+    
+}
+a:visited{
+    color: aquamarine;
+}
+a:hover{
+    color: blueviolet;
+}
+a:active{
+    color: black;
+}
+
+li{
+    text-align: left;
+}
+h4{
+    color: rgb(252, 168, 58);
+    text-align: left;
+}
+hr{
+    color: red
+    rgb(red, green, blue)
+}
