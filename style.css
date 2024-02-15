@@ -2,7 +2,6 @@ html{
     color: aliceblue;
     background: black;
     text-align: center;
-
 }
 a{
     color: rgb(69, 116, 65);
@@ -23,7 +22,6 @@ a:hover{
 a:active{
     color: black;
 }
-
 li, h6{
     text-align: left;
 }
@@ -31,12 +29,11 @@ h4{
     color: rgb(252, 168, 58);
     text-align: left;
 }
-
 h5{
     color: rgb(3, 123, 179);
     text-align: left;
 }
 .wow{
     image-rendering: auto;
-    padding-right: 36%;
+    text-align: left;
 }
